@@ -1,0 +1,34 @@
+# Libraries
+*.o
+*.a
+
+# Emacs
+*~
+\#*#
+
+messagerie_et_pense_bete.txt
+asm/messagerie_et_pense_bete.txt
+asm/binary
+# Executables
+asm/asm
+corewar/corewar
+*.out
+*.s
+*.cor
+unit_tests
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.cor
+
+# Test Unitaire
+*.gc*
+*.h.gch
+
+# VALGRING
+vgcore.*
+
+# VSCODE
+*.vscode

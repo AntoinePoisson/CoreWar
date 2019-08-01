@@ -1,0 +1,677 @@
+   - Value [0]: 11
+   - Value [1]: 104
+   - Value [2]: 1
+   - Value [3]: 0
+   - Value [4]: 69
+   - Value [5]: 0
+   - Value [6]: 1
+   - Value [7]: 11
+   - Value [8]: 104
+-----------------
+cmd[0] : 11
+cmd[1] : 1r
+cmd[2] : 69
+cmd[3] : 1
+
+   - Value [3072]: 11
+   - Value [3073]: 104
+   - Value [3074]: 1
+   - Value [3075]: 0
+   - Value [3076]: 69
+   - Value [3077]: 0
+   - Value [3078]: 1
+   - Value [3079]: 11
+   - Value [3080]: 104
+-----------------
+cmd[0] : 11
+cmd[1] : 1r
+cmd[2] : 69
+cmd[3] : 1
+
+joueur : 0 | cycle 25
+joueur : 1 | cycle 25
+joueur : 0 | cycle 24
+joueur : 1 | cycle 24
+joueur : 0 | cycle 23
+joueur : 1 | cycle 23
+joueur : 0 | cycle 22
+joueur : 1 | cycle 22
+joueur : 0 | cycle 21
+joueur : 1 | cycle 21
+joueur : 0 | cycle 20
+joueur : 1 | cycle 20
+joueur : 0 | cycle 19
+joueur : 1 | cycle 19
+joueur : 0 | cycle 18
+joueur : 1 | cycle 18
+joueur : 0 | cycle 17
+joueur : 1 | cycle 17
+joueur : 0 | cycle 16
+joueur : 1 | cycle 16
+joueur : 0 | cycle 15
+joueur : 1 | cycle 15
+joueur : 0 | cycle 14
+joueur : 1 | cycle 14
+joueur : 0 | cycle 13
+joueur : 1 | cycle 13
+joueur : 0 | cycle 12
+joueur : 1 | cycle 12
+joueur : 0 | cycle 11
+joueur : 1 | cycle 11
+joueur : 0 | cycle 10
+joueur : 1 | cycle 10
+joueur : 0 | cycle 9
+joueur : 1 | cycle 9
+joueur : 0 | cycle 8
+joueur : 1 | cycle 8
+joueur : 0 | cycle 7
+joueur : 1 | cycle 7
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [7]: 11
+   - Value [8]: 104
+   - Value [9]: 1
+   - Value [10]: 0
+   - Value [11]: 34
+   - Value [12]: 0
+   - Value [13]: 1
+   - Value [14]: 2
+   - Value [15]: -112
+-----------------
+cmd[0] : 11
+cmd[1] : 1r
+cmd[2] : 34
+cmd[3] : 1
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3079]: 11
+   - Value [3080]: 104
+   - Value [3081]: 1
+   - Value [3082]: 0
+   - Value [3083]: 34
+   - Value [3084]: 0
+   - Value [3085]: 1
+   - Value [3086]: 2
+   - Value [3087]: -112
+-----------------
+cmd[0] : 11
+cmd[1] : 1r
+cmd[2] : 34
+cmd[3] : 1
+
+joueur : 0 | cycle 25
+joueur : 1 | cycle 25
+joueur : 0 | cycle 24
+joueur : 1 | cycle 24
+joueur : 0 | cycle 23
+joueur : 1 | cycle 23
+joueur : 0 | cycle 22
+joueur : 1 | cycle 22
+joueur : 0 | cycle 21
+joueur : 1 | cycle 21
+joueur : 0 | cycle 20
+joueur : 1 | cycle 20
+joueur : 0 | cycle 19
+joueur : 1 | cycle 19
+joueur : 0 | cycle 18
+joueur : 1 | cycle 18
+joueur : 0 | cycle 17
+joueur : 1 | cycle 17
+joueur : 0 | cycle 16
+joueur : 1 | cycle 16
+joueur : 0 | cycle 15
+joueur : 1 | cycle 15
+joueur : 0 | cycle 14
+joueur : 1 | cycle 14
+joueur : 0 | cycle 13
+joueur : 1 | cycle 13
+joueur : 0 | cycle 12
+joueur : 1 | cycle 12
+joueur : 0 | cycle 11
+joueur : 1 | cycle 11
+joueur : 0 | cycle 10
+joueur : 1 | cycle 10
+joueur : 0 | cycle 9
+joueur : 1 | cycle 9
+joueur : 0 | cycle 8
+joueur : 1 | cycle 8
+joueur : 0 | cycle 7
+joueur : 1 | cycle 7
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [14]: 2
+   - Value [15]: -112
+   - Value [16]: 0
+   - Value [17]: 0
+   - Value [18]: 0
+   - Value [19]: 1
+   - Value [20]: 3
+   - Value [21]: 2
+   - Value [22]: -112
+-----------------
+cmd[0] : 2
+cmd[1] : 1
+cmd[2] : 3r
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3086]: 2
+   - Value [3087]: -112
+   - Value [3088]: 0
+   - Value [3089]: 0
+   - Value [3090]: 0
+   - Value [3091]: 1
+   - Value [3092]: 3
+   - Value [3093]: 2
+   - Value [3094]: -112
+-----------------
+cmd[0] : 2
+cmd[1] : 1
+cmd[2] : 3r
+
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEThe player 1(stayin' alive) is alive.
+The player 2(stayin' alive) is alive.
+C instructions
+NEw instruction
+   - Value [21]: 2
+   - Value [22]: -112
+   - Value [23]: 0
+   - Value [24]: 0
+   - Value [25]: 0
+   - Value [26]: 33
+   - Value [27]: 6
+   - Value [28]: 4
+   - Value [29]: 84
+-----------------
+cmd[0] : 2
+cmd[1] : 33
+cmd[2] : 6r
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3093]: 2
+   - Value [3094]: -112
+   - Value [3095]: 0
+   - Value [3096]: 0
+   - Value [3097]: 0
+   - Value [3098]: 33
+   - Value [3099]: 6
+   - Value [3100]: 4
+   - Value [3101]: 84
+-----------------
+cmd[0] : 2
+cmd[1] : 33
+cmd[2] : 6r
+
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [28]: 4
+   - Value [29]: 84
+   - Value [30]: 2
+   - Value [31]: 3
+   - Value [32]: 2
+   - Value [33]: 8
+   - Value [34]: 100
+   - Value [35]: 2
+   - Value [36]: 0
+-----------------
+cmd[0] : 4
+cmd[1] : 2r
+cmd[2] : 3r
+cmd[3] : 2r
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3100]: 4
+   - Value [3101]: 84
+   - Value [3102]: 2
+   - Value [3103]: 3
+   - Value [3104]: 2
+   - Value [3105]: 8
+   - Value [3106]: 100
+   - Value [3107]: 2
+   - Value [3108]: 0
+-----------------
+cmd[0] : 4
+cmd[1] : 2r
+cmd[2] : 3r
+cmd[3] : 2r
+
+joueur : 0 | cycle 10
+joueur : 1 | cycle 10
+joueur : 0 | cycle 9
+joueur : 1 | cycle 9
+joueur : 0 | cycle 8
+joueur : 1 | cycle 8
+joueur : 0 | cycle 7
+joueur : 1 | cycle 7
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [33]: 8
+   - Value [34]: 100
+   - Value [35]: 2
+   - Value [36]: 0
+   - Value [37]: 0
+   - Value [38]: 0
+   - Value [39]: 15
+   - Value [40]: 4
+   - Value [41]: 1
+-----------------
+cmd[0] : 8
+cmd[1] : 2r
+cmd[2] : 15
+cmd[3] : 4r
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3105]: 8
+   - Value [3106]: 100
+   - Value [3107]: 2
+   - Value [3108]: 0
+   - Value [3109]: 0
+   - Value [3110]: 0
+   - Value [3111]: 15
+   - Value [3112]: 4
+   - Value [3113]: 1
+-----------------
+cmd[0] : 8
+cmd[1] : 2r
+cmd[2] : 15
+cmd[3] : 4r
+
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [41]: 1
+   - Value [42]: 0
+   - Value [43]: 0
+   - Value [44]: 0
+   - Value [45]: 1
+   - Value [46]: 9
+   - Value [47]: 0
+   - Value [48]: 16
+   - Value [49]: 12
+-----------------
+cmd[0] : 1
+cmd[1] : 1
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3113]: 1
+   - Value [3114]: 0
+   - Value [3115]: 0
+   - Value [3116]: 0
+   - Value [3117]: 2
+   - Value [3118]: 9
+   - Value [3119]: 0
+   - Value [3120]: 16
+   - Value [3121]: 12
+-----------------
+cmd[0] : 1
+cmd[1] : 2
+
+joueur : 0 | cycle 10
+joueur : 1 | cycle 10
+joueur : 0 | cycle 9
+joueur : 1 | cycle 9
+joueur : 0 | cycle 8
+joueur : 1 | cycle 8
+joueur : 0 | cycle 7
+joueur : 1 | cycle 7
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [46]: 9
+   - Value [47]: 0
+   - Value [48]: 16
+   - Value [49]: 12
+   - Value [50]: -1
+   - Value [51]: -21
+   - Value [52]: 2
+   - Value [53]: -112
+   - Value [54]: 0
+-----------------
+cmd[0] : 9
+cmd[1] : 16
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3118]: 9
+   - Value [3119]: 0
+   - Value [3120]: 16
+   - Value [3121]: 12
+   - Value [3122]: -1
+   - Value [312The player 1(stayin' alive) is alive.
+3]: -21
+   - Value [3124]: 2
+   - Value [3125]: -112
+   - Value [3126]: 0
+-----------------
+cmd[0] : 9
+cmd[1] : 16
+
+joueur : 0 | cycle 20
+joueur : 1 | cycle 20
+joueur : 0 | cycle 19
+joueur : 1 | cycle 19
+joueur : 0 | cycle 18
+joueur : 1 | cycle 18
+joueur : 0 | cycle 17
+joueur : 1 | cycle 17
+joueur : 0 | cycle 16
+joueur : 1 | cycle 16
+joueur : 0 | cycle 15
+joueur : 1 | cycle 15
+joueur : 0 | cycle 14
+joueur : 1 | cycle 14
+joueur : 0 | cycle 13
+joueur : 1 | cycle 13
+joueur : 0 | cycle 12
+joueur : 1 | cycle 12
+joueur : 0 | cycle 11
+joueur : 1 | cycle 11
+joueur : 0 | cycle 10
+joueur : 1 | cycle 10
+joueur : 0 | cycle 9
+joueur : 1 | cycle 9
+joueur : 0 | cycle 8
+joueur : 1 | cycle 8
+joueur : 0 | cycle 7
+joueur : 1 | cycle 7
+joueur : 0 | cycle 6
+joueur : 1 | cycle 6
+joueur : 0 | cycle 5
+joueur : 1 | cycle 5
+joueur : 0 | cycle 4
+joueur : 1 | cycle 4
+joueur : 0 | cycle 3
+joueur : 1 | cycle 3
+joueur : 0 | cycle 2
+joueur : 1 | cycle 2
+joueur : 0 | cycle 1
+joueur : 1 | cycle 1
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [62]: 2
+   - Value [63]: -112
+   - Value [64]: 0
+   - Value [65]: 0
+   - Value [66]: 0
+   - Value [67]: 0
+   - Value [68]: 4
+   - Value [69]: 1
+   - Value [70]: 0
+-----------------
+cmd[0] : 2
+cmd[1] : 0
+cmd[2] : 4r
+
+joueur : 1 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [3121]: 12
+   - Value [3122]: -1
+   - Value [3123]: -21
+   - Value [3124]: 2
+   - Value [3125]: -112
+   - Value [3126]: 0
+   - Value [3127]: 0
+   - Value [3128]: 0
+   - Value [3129]: 0
+-----------------
+cmd[0] : 12
+cmd[1] : -21
+
+joueur : 0 | cycle 5
+joueur : 1 | cycle 800
+joueur : 0 | cycle 4
+joueur : 1 | cycle 799
+joueur : 0 | cycle 3
+joueur : 1 | cycle 798
+joueur : 0 | cycle 2
+joueur : 1 | cycle 797
+joueur : 0 | cycle 1
+joueur : 1 | cycle 796
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [69]: 1
+   - Value [70]: 0
+   - Value [71]: 0
+   - Value [72]: 0
+   - Value [73]: 1
+   - Value [74]: 9
+   - Value [75]: -1
+   - Value [76]: -5
+   - Value [77]: 0
+-----------------
+cmd[0] : 1
+cmd[1] : 1
+
+joueur : 1 | cycle 795
+joueur : 0 | cycle 10
+joueur : 1 | cycle 794
+joueur : 0 | cycle 9
+joueur : 1 | cycle 793
+joueur : 0 | cycle 8
+joueur : 1 | cycle 792
+joueur : 0 | cycle 7
+joueur : 1 | cycle 791
+joueur : 0 | cycle 6
+joueur : 1 | cycle 790
+joueur : 0 | cycle 5
+joueur : 1 | cycle 789
+joueur : 0 | cycle 4
+joueur : 1 | cycle 788
+joueur : 0 | cycle 3
+joueur : 1 | cycle 787
+joueur : 0 | cycle 2
+joueur : 1 | cycle 786
+joueur : 0 | cycle 1
+joueur : 1 | cycle 785
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [74]: 9
+   - Value [75]: -1
+   - Value [76]: -5
+   - Value [77]: 0
+   - Value [78]: 0
+   - Value [79]: 0
+   - Value [80]: 0
+   - Value [81]: 0
+   - Value [82]: 0
+-----------------
+cmd[0] : 9
+cmd[1] : -5
+
+joueur : 1 | cycle 784
+joueur : 0 | cycle 20
+joueur : 1 | cycle 783
+joueur : 0 | cycle 19
+joueur : 1 | cycle 782
+joueur : 0 | cycle 18
+joueur : 1 | cycle 781
+joueur : 0 | cycle 17
+joueur : 1 | cycle 780
+joueur : 0 | cycle 16
+joueur : 1 | cycle 779
+joueur : 0 | cycle 15
+joueur : 1 | cycle 778
+joueur : 0 | cycle 14
+joueur : 1 | cycle 777
+joueur : 0 | cycle 13
+joueur : 1 | cycle 776
+joueur : 0 | cycle 12
+joueur : 1 | cycle 775
+joueur : 0 | cycle 11
+joueur : 1 | cycle 774
+joueur : 0 | cycle 10
+joueur : 1 | cycle 773
+joueur : 0 | cycle 9
+joueur : 1 | cycle 772
+joueur : 0 | cycle 8
+joueur : 1 | cycle 771
+joueur : 0 | cycle 7
+joueur : 1 | cycle 770
+joueur : 0 | cycle 6
+joueur : 1 | cycle 769
+joueur : 0 | cycle 5
+joueur : 1 | cycle 768
+joueur : 0 | cycle 4
+joueur : 1 | cycle 767
+joueur : 0 | cycle 3
+joueur : 1 | cycle 766
+joueur : 0 | cycle 2
+joueur : 1 | cycle 765
+joueur : 0 | cycle 1
+joueur : 1 | cycle 764
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [69]: 1
+   - Value [70]: 0
+   - Value [71]: 0
+   - Value [72]: 0
+   - Value [73]: 1
+   - Value [74]: 9
+   - Value [75]: -1
+   - Value [76]: -5
+   - Value [77]: 0
+-----------------
+cmd[0] : 1
+cmd[1] : 1
+
+joueur : 1 | cycle 763
+joueur : 0 | cycle 10
+joueur : 1 | cycle 762
+joueur : 0 | cycle 9
+joueur : 1 | cycle 761
+joueur : 0 | cycle 8
+joThe player 1(stayin' alive) is alive.
+ueur : 1 | cycle 760
+joueur : 0 | cycle 7
+joueur : 1 | cycle 759
+joueur : 0 | cycle 6
+joueur : 1 | cycle 758
+joueur : 0 | cycle 5
+joueur : 1 | cycle 757
+joueur : 0 | cycle 4
+joueur : 1 | cycle 756
+joueur : 0 | cycle 3
+joueur : 1 | cycle 755
+joueur : 0 | cycle 2
+joueur : 1 | cycle 754
+joueur : 0 | cycle 1
+joueur : 1 | cycle 753
+joueur : 0 | cycle 0
+EXEC instructions
+NEw instruction
+   - Value [74]: 9
+   - Value [75]: -1
+   - Value [76]: -5
+   - Value [77]: 0
+   - Value [78]: 0
+   - Value [79]: 0
+   - Value [80]: 0
+   - Value [81]: 0
+   - Value [82]: 0
+-----------------
+cmd[0] : 9
+cmd[1] : -5
+
+joueur : 1 | cycle 752
