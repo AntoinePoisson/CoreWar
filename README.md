@@ -3,7 +3,7 @@
 Lancement basic :
 - make
 - ./asm ./champ/[nom_du_champion].s
-- ./corewar -m ./champ/[nom_du_champion].cor ...
+- ./corewar ./champ/[nom_du_champion_1].cor ./champ/[nom_du_champion_2].cor ...
 
 La VM dispose de 4096 cases memoires dans lesquels le bytecode des champions vont y etre ecris.<br/>
 Le bytecode des champions est généré grace a l'asm qui traduit l'assembleur des .s en .cor.<br/>
