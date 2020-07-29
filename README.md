@@ -1,5 +1,5 @@
 # CoreWar
-
+Projet Epitech.<br/>
 Lancement basic :
 - make
 - ./asm ./champ/[nom_du_champion].s
