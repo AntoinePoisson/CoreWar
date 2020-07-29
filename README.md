@@ -74,6 +74,6 @@ Encodage :
 				Ex : sti r1, %:live, %1 == 0x0b | 0x68
 							    sti | (r1, %:line, %1) == (01, 10, 10, 00)
 
-Note:
+###Note:
 Partie ASM 99%
 Partie VM 80%
