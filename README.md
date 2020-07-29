@@ -1,4 +1,5 @@
-# CoreWar (Projet Epitech)
+# CoreWar
+Le Corewar est un projet de fin de 1er année à Epitech.<br/>
 Lancement basic :
 - make
 - ./asm ./champ/[nom_du_champion].s
@@ -74,6 +75,5 @@ Encodage :
 							    sti | (r1, %:line, %1) == (01, 10, 10, 00)
 
 ### Note:
-Partie ASM 99%
-
+Partie ASM 99%.<br/>
 Partie VM 80%
