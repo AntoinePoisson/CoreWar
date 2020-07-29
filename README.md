@@ -1,6 +1,6 @@
 # CoreWar
 Le Corewar est un projet de fin de 1er année à Epitech.<br/>
-Lancement basic :
+Voici comment lancer le projet :
 - make
 - ./asm ./champ/[nom_du_champion].s
 - ./corewar ./champ/[nom_du_champion_1].cor ./champ/[nom_du_champion_2].cor ...
