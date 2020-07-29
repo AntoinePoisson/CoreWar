@@ -75,6 +75,6 @@ Encodage :
 							    sti | (r1, %:line, %1) == (01, 10, 10, 00)
 
 ### Note:
--
-Partie ASM 99%.
-Partie VM 80%.
+Partie ASM 99%
+
+Partie VM 80%
