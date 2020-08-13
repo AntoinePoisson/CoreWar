@@ -12,7 +12,7 @@ Ces meme instructions vont etre interpreté par les processus.<br/>
 
 Un processus va etre attribuer nativement par la VM a chaque debut de bytecode des champions.<br/>
 
-![Alt text](./anim.gif "corewar")
+![Alt text](https://github.com/DBarthe/Corewar/blob/masteranim.gif "corewar")
 
 VM : Machine Virtuelle
 -
