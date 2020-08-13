@@ -5,14 +5,14 @@ Voici comment lancer le projet :
 - ./asm ./champ/[nom_du_champion].s
 - ./corewar ./champ/[nom_du_champion_1].cor ./champ/[nom_du_champion_2].cor ...
 
+![Alt text](https://github.com/DBarthe/Corewar/blob/master/anim.gif "corewar")
+
 La VM dispose de 4096 cases memoires dans lesquels le bytecode des champions vont y etre ecris.<br/>
 Le bytecode des champions est généré grace a l'asm qui traduit l'assembleur des .s en .cor.<br/>
 Le bytecode est un ensemble d'instruction, suivis de ses parametres, qui defini donc les champions.<br/>
 Ces meme instructions vont etre interpreté par les processus.<br/>
 
 Un processus va etre attribuer nativement par la VM a chaque debut de bytecode des champions.<br/>
-
-![Alt text](https://github.com/DBarthe/Corewar/blob/master/anim.gif "corewar")
 
 VM : Machine Virtuelle
 -
