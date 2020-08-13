@@ -12,6 +12,8 @@ Ces meme instructions vont etre interpreté par les processus.<br/>
 
 Un processus va etre attribuer nativement par la VM a chaque debut de bytecode des champions.<br/>
 
+![Alt text](./anim.gif "corewar")
+
 VM : Machine Virtuelle
 -
 - L'arene est constitue de 4096 octets;
